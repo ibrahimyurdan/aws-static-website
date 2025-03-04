@@ -1,11 +1,11 @@
-# AWS Static Website Project
+# AWS Static Website
 
 A modern, responsive static website hosted on AWS S3, showcasing cloud hosting capabilities and modern web development practices.
 
-## 🌐 Live Demo
-[View Live Website](http://aws-static-website-project1.s3-website.us-east-2.amazonaws.com)
+## Live Demo
+[View Live Website](http://aws-static-website.s3-website.us-east-2.amazonaws.com)
 
-## 🚀 Features
+## Features
 
 - **AWS Cloud Hosting**
   - S3 Static Website Hosting
@@ -27,7 +27,7 @@ A modern, responsive static website hosted on AWS S3, showcasing cloud hosting c
   - Smooth Animations
   - Optimized Assets
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - AWS S3 for hosting
 - HTML5
@@ -36,7 +36,7 @@ A modern, responsive static website hosted on AWS S3, showcasing cloud hosting c
 - Font Awesome Icons
 - Git & GitHub
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 .
@@ -46,11 +46,11 @@ A modern, responsive static website hosted on AWS S3, showcasing cloud hosting c
 └── README.md          # Project documentation
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ibrahimyurdan/aws-static-website-project1.git
+   git clone https://github.com/ibrahimyurdan/aws-static-website.git
    ```
 
 2. Open `index.html` in your browser to view locally
@@ -61,7 +61,7 @@ A modern, responsive static website hosted on AWS S3, showcasing cloud hosting c
    - Upload all files
    - Configure bucket policy for public access
 
-## 📝 AWS S3 Bucket Policy
+## AWS S3 Bucket Policy
 
 Use this bucket policy for public access:
 
@@ -80,18 +80,9 @@ Use this bucket policy for public access:
 }
 ```
 
-## 🔒 Security
+## Security
 
 - Implemented AWS security best practices
 - Secure bucket policy configuration
 - HTTPS ready (when using with CloudFront)
 
-## 👤 Author
-
-**Ibrahim Yurdan**
-- GitHub: [@ibrahimyurdan](https://github.com/ibrahimyurdan)
-- LinkedIn: [ibrahim-yurdan](https://linkedin.com/in/ibrahim-yurdan)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE). 
